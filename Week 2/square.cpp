@@ -13,6 +13,7 @@ int main(void) {
 		cout << "error : only choose 1 or 2 !";
 		return 0x34AF;
 	}
+
 	cout << "what size square?";
 
 	int size;
